@@ -3736,6 +3736,26 @@ a {
 .cid-tYfPKggMa1 header-menu-item {
   text-align: center;
 }
+.cid-tYIaCabys2 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #edefeb;
+}
+.cid-tYIaCabys2 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tYIaCabys2 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tYIaCabys2 .content-text {
+  max-width: 800px;
+}
 .cid-tYaQG9rVrr {
   z-index: 1000;
   width: 100%;
